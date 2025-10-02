@@ -8,3 +8,5 @@ pip install -r requirements.txt
 ## run
 python app_tkinter.py
 python app_pyqt.py
+
+since im solo and everything is identical no need to merge!
